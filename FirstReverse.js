@@ -9,10 +9,10 @@
 */
 
 function FirstReverse(str) {
-	var kalimatBalik="";
-  	for (a=str.length; a >= 0; a--)
-  		kalimatBalik+=str.substring(a, a-1);	  	
-  		return kalimatBalik;
+	var reverse ="";
+  	for (var i=str.length; i >= 0; i--)
+  		reverse+=str.substring(i, i-1);	  	
+  		return reverse;
 }
 
 // memanggil fungsi
