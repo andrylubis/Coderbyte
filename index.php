@@ -27,5 +27,11 @@
 	<br>
 	<!-- memanggil PowersOfTwo-->
 	Output Powers Of Two = <script type="text/javascript" src="PowersOfTwo.js"></script>
+	<br>
+	<!-- memanggil fungsi AlphabetSoup -->
+	Output Alphabet Soup = <script type="text/javascript" src="AlphabetSoup.js"></script>
+	<br>
+	<!-- memanggil fungsi SwapeCase -->
+	Output Swape Case = <script type="text/javascript" src="SwapeCase.js"></script>
 </body>
 </html>
