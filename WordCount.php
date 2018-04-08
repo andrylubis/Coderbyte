@@ -5,14 +5,10 @@
 */
 
 function WordCount($str) {  
- 
   $changeToArray = explode(" ", $str);  
   return $wordcount = count($changeToArray);
-         
 }
 
-
 $str = "selamat datang";  
-echo WordCount($str);  
-
+echo WordCount($str); 
 ?>

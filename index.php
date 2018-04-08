@@ -33,5 +33,8 @@
 	<br>
 	<!-- memanggil fungsi SwapeCase -->
 	Output Swape Case = <script type="text/javascript" src="SwapeCase.js"></script>
+	<br>
+	<!-- memanggil fungsi DivisionStringified -->
+	Output Division Stringified = <script type="text/javascript" src="DivisionStringified.js"></script>
 </body>
 </html>
