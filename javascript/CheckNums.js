@@ -6,13 +6,6 @@
 
   output = "true".
   Karena "num2" lebih besar dari "num1".
-  
-  Pseoudocode:
-  Pertama-tama lakukan seleksi kondisi untuk paramater num2 dan num1.
-  1. Jika num2 > num1, maka tampilkan nilai true.
-  2. Jika num2 < num1, maka tampilkan nilai false.
-  3. Jika num2 == num1 maka tampilkan nilai -1  
-
 */
 
 function CheckNums(num1,num2) {  

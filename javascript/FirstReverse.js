@@ -9,10 +9,14 @@
 */
 
 function FirstReverse(str) {
-	var reverse ="";
-  	for (var i=str.length; i >= 0; i--)
-  		reverse+=str.substring(i, i-1);	  	
-  		return reverse;
+	var reverse = str.split('');
+	reverse = reverse.reverse();
+	reverse = reverse.join('');
+
+	//var reverse ="";
+  	//for (var i=str.length; i >= 0; i--)
+  	//	reverse+=str.substring(i, i-1);	  	
+  	return reverse;
 }
 
 // memanggil fungsi
